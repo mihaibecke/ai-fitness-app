@@ -50,5 +50,24 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 # ai-fitness-app
 Log-in Screens
+
 <img width="452" alt="image" src="https://github.com/user-attachments/assets/a8996187-cdb5-4f42-880c-537a058575d3" />
+
+Home and Profile Screen
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/5552542a-eb0c-401a-b7cb-87112cf62e5b" />
+
+Log-out
+
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/d7079c78-a925-4aef-8e5c-c3448e4d4f3e" />
+
+Exercise Detail Page
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/e32101e6-ab6b-4358-8265-b02be114a98e" />
+
+ChatBot Screen
+
+<img width="215" alt="image" src="https://github.com/user-attachments/assets/f4ab60f1-6b7e-49d4-9226-d02167c00986" />
+
+
 
