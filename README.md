@@ -49,3 +49,6 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 # ai-fitness-app
+Log-in Screens
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/a8996187-cdb5-4f42-880c-537a058575d3" />
+
