@@ -31,7 +31,7 @@ export default function ChatbotScreen() {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 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"
+        "Authorization": "YOUR API KEY HERE"
       },
       body: JSON.stringify({
         "messages": [
@@ -64,7 +64,7 @@ export default function ChatbotScreen() {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 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"
+        "Authorization": "YOUR API KEY HERE"
       },
       body: JSON.stringify({
         "prompt": inputMessage,
