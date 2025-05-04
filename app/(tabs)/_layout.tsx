@@ -17,7 +17,7 @@ export default function TabLayout() {
     <Tabs
       screenOptions={{
         tabBarActiveTintColor: Colors[colorScheme ?? 'light'].tint,
-        headerShown: false,  // Hide the header in the tab bar
+        headerShown: false, 
         tabBarButton: HapticTab,
         tabBarBackground: TabBarBackground,
         tabBarStyle: Platform.select({
@@ -65,12 +65,12 @@ export default function TabLayout() {
         options={{
           title: 'Chatbot',
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="person.bubble.fill" color={color} />,
-          tabBarStyle: { display: 'none' },  // Hide the tab bar when on the Chatbot screen
-          headerShown: true,  // Show the header for the Chatbot screen
+          tabBarStyle: { display: 'none' },  
+          headerShown: true, 
           headerLeft: () => (
             <TouchableOpacity
-              onPress={() => router.back()}  // Use router.back() to navigate back
-              style={{ paddingLeft: 10 }}  // Adding some padding for spacing
+              onPress={() => router.back()}  
+              style={{ paddingLeft: 10 }} 
             >
               <IconSymbol
                 size={28}
