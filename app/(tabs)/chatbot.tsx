@@ -13,7 +13,7 @@ interface Message {
 
 export default function ChatbotScreen() {
   const [inputMessage, setInputMessage] = useState('');
-  const [messages, setMessages] = useState<Message[]>([]);  // Set the type of messages
+  const [messages, setMessages] = useState<Message[]>([]);
 
   const handleButtonClick = () => {
     if (!inputMessage.trim()) return;
