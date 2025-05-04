@@ -70,4 +70,8 @@ ChatBot Screen
 <img width="215" alt="image" src="https://github.com/user-attachments/assets/f4ab60f1-6b7e-49d4-9226-d02167c00986" />
 
 
+ChatBot Tests
+
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/b3f5f77d-92eb-471a-a83e-131462a63c6f" />
+
 
