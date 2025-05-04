@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Incline Hammer Curls",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "instructions": "Seat yourself on an incline bench with a dumbbell in each hand. You should press firmly against the back with your feet together. Allow the dumbbells to hang straight down at your side, holding them with a neutral grip. This will be your starting position. Initiate the movement by flexing at the elbow, attempting to keep the upper arm stationary. Continue to the top of the movement and pause, then slowly return to the start position.",
+    "gif": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQxMm1lMDZncGJ3ZXUzbHEwNng2b3pyOXc2ZXE1aHE3dTZ6ZGc2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EWfDfF3QuN8qonE6Gu/giphy.gif"
+  },
+  {
+    "name": "Squats",
+    "type": "strength",
+    "muscle": "legs",
+    "equipment": "barbell",
+    "difficulty": "beginner",
+    "instructions": "Stand with your feet shoulder-width apart and a barbell resting on your upper back. Keep your chest up, shoulders back, and engage your core. Slowly lower your body by bending your knees and hips, making sure your knees track over your toes and do not extend past them. Lower until your thighs are parallel to the ground, then push through your heels to return to standing. Tip: Keep your back straight throughout the movement. Avoid letting your knees collapse inward.",
+    "gif": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3l5NWZ4YjloMXVudWJvbHFiZ3owY2g1OHllOWFkc3hncDg1NDJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NwOzakbqzOrsfMKBC/giphy.gif"
+  },
+  {
+    "name": "Wide-grip barbell curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "barbell",
+    "difficulty": "beginner",
+    "instructions": "Stand up with your torso upright while holding a barbell at the wide outer handle. The palm of your hands should be facing forward. The elbows should be close to the torso. This will be your starting position. While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard. Slowly begin to bring the bar back to the starting position as you breathe in. Repeat for the recommended amount of repetitions. Variations: You can also perform this movement using an E-Z bar or E-Z attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes.",
+    "gif": "https://tenor.com/en-GB/view/8preacher-curl-gif-26653376"
+  },
+  {
+    "name": "EZ-bar spider curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Start out by setting the bar on the part of the preacher bench that you would normally sit on. Make sure to align the barbell properly so that it is balanced and will not fall off. Move to the front side of the preacher bench (the part where the arms usually lay) and position yourself to lay at a 45-degree slant with your torso and stomach pressed against the front side of the preacher bench. Make sure that your feet (especially the toes) are well positioned on the floor and place your upper arms on top of the pad located on the inside part of the preacher bench. Use your arms to grab the barbell with a supinated grip (palms facing up) at about shoulder width apart or slightly closer from each other. Slowly begin to lift the barbell upwards and exhale. Hold the contracted position for a second as you squeeze the biceps. Slowly begin to bring the barbell back to the starting position as you breathe in. Repeat for the recommended amount of repetitions. Variation: You can also use dumbbells when performing this exercise. Just make sure you place the dumbbells on the part of the preacher bench where you would normally sit properly.",
+    "gif": "https://tenor.com/en-GB/view/z-bar-biceps-curl-gif-27366368"
+  },
+  {
+    "name": "Leg Press",
+    "type": "strength",
+    "muscle": "legs",
+    "equipment": "leg press machine",
+    "difficulty": "intermediate",
+    "instructions": "Sit on the leg press machine with your feet shoulder-width apart on the footplate. Slowly push the weight upward and extend your legs. Lower the weight back down until your knees are at a 90-degree angle. Ensure that your knees don't go beyond your toes during the movement.",
+    "gif": "https://tenor.com/en-GB/view/gym-gif-14417872878846380507"
+  },
+  {
+    "name": "Hammer Curls",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand up with your torso upright and a dumbbell in each hand being held at arm's length. The elbows should be close to the torso. The palms of the hands should be facing your torso. This will be your starting position. Now, while holding your upper arm stationary, exhale and curl the weight forward while contracting the biceps. Continue to raise the weight until the biceps are fully contracted and the dumbbell is at shoulder level. Hold the contracted position for a brief moment as you squeeze the biceps. Tip: Focus on keeping the elbow stationary and only moving your forearm. After the brief pause, inhale and slowly begin to lower the dumbbells back down to the starting position. Repeat for the recommended amount of repetitions. Variations: There are many possible variations for this movement. For instance, you can perform the exercise sitting down on a bench with or without back support and you can also perform it by alternating arms; first lift the right arm for one repetition, then the left, then the right, etc.",
+    "gif": "https://media.giphy.com/media/3oEjI6SIIHBdK9qDi0/giphy.gif"
+  },
+  {
+    "name": "EZ-Bar Curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "e-z_curl_bar",
+    "difficulty": "intermediate",
+    "instructions": "Stand up straight while holding an EZ curl bar at the wide outer handle. The palms of your hands should be facing forward and slightly tilted inward due to the shape of the bar. Keep your elbows close to your torso. This will be your starting position. Now, while keeping your upper arms stationary, exhale and curl the weights forward while contracting the biceps. Focus on only moving your forearms. Continue to raise the weight until your biceps are fully contracted and the bar is at shoulder level. Hold the top contracted position for a moment and squeeze the biceps. Then inhale and slowly lower the bar back to the starting position. Repeat for the recommended amount of repetitions. Variations: You can also perform this movement using an E-Z attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes.",
+    "gif": "https://media.giphy.com/media/26u4BHaO8xOOl2c2s/giphy.gif"
+  },
+  {
+    "name": "Lunges",
+    "type": "strength",
+    "muscle": "legs",
+    "equipment": "dumbbells",
+    "difficulty": "beginner",
+    "instructions": "Stand with your feet hip-width apart and holding a dumbbell in each hand. Step forward with one leg, lowering your body until both knees are bent at a 90-degree angle. Push through your front heel to return to standing, then repeat with the other leg.",
+    "gif": "https://media.giphy.com/media/5Vg08OPFy5sm0/giphy.gif"
+  },
+  {
+    "name": "Zottman Curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "None",
+    "difficulty": "intermediate",
+    "instructions": "Stand up with your torso upright and a dumbbell in each hand being held at arm's length. The elbows should be close to the torso. Make sure the palms of the hands are facing each other. This will be your starting position. While holding the upper arm stationary, curl the weights while contracting the biceps as you breathe out. Only the forearms should move. Your wrist should rotate so that you have a supinated (palms up) grip. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a second as you squeeze the biceps. Now during the contracted position, rotate your wrist until you now have a pronated (palms facing down) grip with the thumb at a higher position than the pinky. Slowly begin to bring the dumbbells back down using the pronated grip. As the dumbbells close your thighs, start rotating the wrist so that you go back to a neutral (palms facing your body) grip. Repeat for the recommended amount of repetitions.",
+    "gif": "https://media.giphy.com/media/ltSOG5dsqreXK/giphy.gif"
+  },
+  {
+    "name": "Bench Press",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Lie flat on a bench with your feet planted on the ground. Grasp the barbell with both hands slightly wider than shoulder-width apart. Lower the barbell to your chest, keeping your elbows at about a 45-degree angle. Press the barbell back up until your arms are fully extended. Tip: Keep your back flat against the bench and avoid arching it.",
+    "gif": "https://media.giphy.com/media/11bOZ8MFGYtcX6/giphy.gif"
+  },
+  {
+    "name": "Biceps curl to shoulder press",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "instructions": "Begin in a standing position with a dumbbell in each hand. Your arms should be hanging at your sides with your palms facing forward. Look directly ahead, keeping your chest up, with your feet shoulder-width apart. This will be your starting position. Initiate the movement by flexing the elbows to curl the weight. Do not use momentum or flex through the shoulder, instead use a controlled motion. Execute the pressing movement by extending the arm, flexing and abducting the shoulder to rotate the arm as you press above your head. Pause at the top of the motion before reversing the movement to return to the starting position. Complete the desired number of repetitions before switching to the opposite side.",
+    "gif": "https://media.giphy.com/media/26vIu55vCdcJ2ZnuI/giphy.gif"
+  },
+  {
+    "name": "Barbell Curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand up with your torso upright while holding a barbell at a shoulder-width grip. The palm of your hands should be facing forward and the elbows should be close to the torso. This will be your starting position. While holding the upper arms stationary, curl the weights forward while contracting the biceps as you breathe out. Tip: Only the forearms should move. Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard. Slowly begin to bring the bar back to the starting position as you breathe in. Repeat for the recommended amount of repetitions. Variations: You can also perform this movement using a straight bar attachment hooked to a low pulley. This variation seems to really provide a good contraction at the top of the movement. You may also use the closer grip for variety purposes.",
+    "gif": "https://media.giphy.com/media/9ZWxZVcpMbGVy/giphy.gif"
+  },
+  {
+    "name": "Push-ups",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": "Start in a plank position with your hands placed slightly wider than shoulder-width apart. Keep your body in a straight line from your head to your heels. Lower your body towards the ground by bending your elbows, keeping them at a 45-degree angle from your torso. Push your body back up to the starting position, fully extending your arms.",
+    "gif": "https://media.giphy.com/media/5q3kRDNW93XvQ/giphy.gif"
+  },
+  {
+    "name": "Concentration curl",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "instructions": "Sit down on a flat bench with one dumbbell in front of you between your legs. Your legs should be spread with your knees bent and feet on the floor. Use your right arm to pick the dumbbell up. Place the back of your right upper arm on the top of your inner right thigh. Rotate the palm of your hand until it is facing forward away from your thigh. Tip: Your arm should be extended and the dumbbell should be above the floor. This will be your starting position. While holding the upper arm stationary, curl the weights forward while contracting the biceps as you breathe out. Only the forearms should move. Continue the movement until your biceps are fully contracted and the dumbbells are at shoulder level. Tip: At the top of the movement make sure that the little finger of your arm is higher than your thumb. This guarantees a good contraction. Hold the contracted position for a second as you squeeze the biceps. Slowly begin to bring the dumbbells back to the starting position as you breathe in. Caution: Avoid swinging motions at any time. Repeat for the recommended amount of repetitions. Then repeat the movement with the left arm. Variations: This exercise can be performed standing with the torso bent forward and the arm in front of you. In this case, no leg support is used for the back of your arm so you will need to make extra effort to ensure no movement of the upper arm. This is a more challenging version of the exercise and is not recommended for people with lower back issues.",
+    "gif": "https://media.giphy.com/media/3ohs4KQ9tQ49aAE9XO/giphy.gif"
+  },
+  {
+    "name": "Flexor Incline Dumbbell Curls",
+    "type": "strength",
+    "muscle": "biceps",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "instructions": "Hold the dumbbell towards the side farther from you so that you have more weight on the side closest to you. (This can be done for a good effect on all bicep dumbbell exercises). Now do a normal incline dumbbell curl, but keep your wrists as far back as possible so as to neutralize any stress that is placed on them. Sit on an incline bench that is angled at 45-degrees while holding a dumbbell on each hand. Let your arms hang down on your sides, with the elbows in, and turn the palms of your hands forward with the thumbs pointing away from the body. Tip: You will keep this hand position throughout the movement as there should not be any twisting of the hands as they come up. This will be your starting position. Curl up the two dumbbells at the same time until your biceps are fully contracted and exhale. Tip: Do not swing the arms or use momentum. Keep a controlled motion at all times. Hold the contracted position for a second at the top. As you inhale, slowly go back to the starting position. Repeat for the recommended amount of repetitions. Caution: Do not extend your arms totally as you could injure your elbows if you hyperextend them. Also, make sure that on the way down you move slowly to avoid injury. Variations: You can use cables for this movement as well.",
+    "gif": "https://media.giphy.com/media/Vyifpv7hHq0zw/giphy.gif"
+  },
+  {
+    "name": "Chest Fly",
+    "type": "strength",
+    "muscle": "chest",
+    "equipment": "dumbbells",
+    "difficulty": "intermediate",
+    "instructions": "Lie on a flat bench with a dumbbell in each hand, palms facing inward. Extend your arms above your chest, then slowly lower the weights out to the sides, keeping a slight bend in your elbows. Squeeze the chest muscles to bring the weights back together at the top.",
+    "gif": "https://media.giphy.com/media/xiJym7s4Ht0Fk/giphy.gif"
+  },
+  {
+    "name": "Deadlifts",
+    "type": "strength",
+    "muscle": "back",
+    "equipment": "barbell",
+    "difficulty": "intermediate",
+    "instructions": "Stand with your feet shoulder-width apart, the barbell in front of your shins. Bend at the hips and knees to grasp the barbell with both hands, keeping your back straight. Drive through your heels and stand up, pulling the barbell along your legs. Lower the barbell back to the ground in a controlled motion.",
+    "gif": "https://media.giphy.com/media/9zSSV1csTz9zW/giphy.gif"
+  },
+  {
+    "name": "Lat Pulldowns",
+    "type": "strength",
+    "muscle": "back",
+    "equipment": "cable machine",
+    "difficulty": "intermediate",
+    "instructions": "Sit at a lat pulldown machine with your knees secured under the pads. Grasp the bar with a wide grip and pull it down towards your chest, keeping your back straight and your elbows pointing down. Slowly return the bar to the starting position.",
+    "gif": "https://media.giphy.com/media/dkJfFhWgyyWck/giphy.gif"
+  },
+  {
+    "name": "Shoulder Press",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "intermediate",
+    "instructions": "Sit on a bench with back support and hold a dumbbell in each hand at shoulder height. Press the dumbbells overhead until your arms are fully extended. Slowly return the dumbbells to shoulder height, controlling the movement.",
+    "gif": "https://media.giphy.com/media/3o7WTQ8QxQzxowG2cy/giphy.gif"
+  },
+  {
+    "name": "Lateral Raises",
+    "type": "strength",
+    "muscle": "shoulders",
+    "equipment": "dumbbell",
+    "difficulty": "beginner",
+    "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand by your sides. With a slight bend in your elbows, raise the dumbbells out to the sides until they reach shoulder height. Lower them back down slowly.",
+    "gif": "https://media.giphy.com/media/2xcTGHJm9GrYm/giphy.gif"
+  },
+  {
+    "name": "Plank",
+    "type": "core",
+    "muscle": "abdominals",
+    "equipment": "bodyweight",
+    "difficulty": "beginner",
+    "instructions": "Start in a forearm plank position with your body in a straight line from your head to your heels. Engage your core, squeeze your glutes, and hold the position. Tip: Breathe steadily and maintain the position for as long as possible without compromising your form.",
+    "gif": "https://media.giphy.com/media/11sYIkIHx5WxHo/giphy.gif"
+  },
+  {
+    "name": "Leg Raises",
+    "type": "core",
+    "muscle": "lower abdominals",
+    "equipment": "bodyweight",
+    "difficulty": "intermediate",
+    "instructions": "Lie flat on your back with your legs extended and hands under your hips for support. Raise your legs towards the ceiling, keeping them straight, then slowly lower them back down without touching the floor. Keep your core engaged throughout the movement.",
+    "gif": "https://media.giphy.com/media/mW0Xt7myftn91nDfsd/giphy.gif"
+  }
+]
