@@ -4,10 +4,8 @@ import { useRouter } from 'expo-router';
 
 export default function HomeScreen() {
   const router = useRouter();
-
-  // Navigate to the Chatbot screen when the button is pressed
   const goToChatbot = () => {
-    router.push('/chatbot');  // Assuming your chatbot screen is in the /chatbot route
+    router.push('/chatbot');  
   };
 
   return (
