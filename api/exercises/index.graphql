@@ -12,7 +12,7 @@ type Query {
     @rest(
       endpoint: "https://api.api-ninjas.com/v1/exercises"
       headers: [
-        { name: "x-api-key", value: "NURdMGtSgm8JUuYJu4oFZA==cx8llXXsNLxHP5Ea" }
+        { name: "x-api-key", value: "YOUR API KEY HERE" }
       ]
     )
 }
